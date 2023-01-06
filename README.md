@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://github.com/mudov-cloud/.github/blob/main/mudov-clouds.gif?raw=true" height="230"/>
 </p>
-<h1 align="center"><br>The <a href="https://github.com/mudov-cloud">MuDov Cloud</h1>
+<h1 align="center"><br>The <a href="https://github.com/mudov-cloud">TresComas Solutions</h1>
 <Br>
 <h1>About Us</h1>
 
-- 💻: System Architecture, Cloud Solutions & Ethical Hacking.
-- 📌: Currently working on variety projects, soon to be pushed to GitHub
-- ⚡:  Fun fact - wether to the fortunate or unfortunate, we dont know but we're still alive!
+- 💻: System Architecture, Cloud Solutions.
+- 📌: Currently working on variety of projects, soon to be pushed to GitHub
+- ⚡:  Fun fact - wether to the fortunate or unfortunate, we dont know but we're still standing!
   
 <hr>  
 <Br>
@@ -33,4 +33,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orazmyradov&repo=cloud-gallery-spotlight)](https://github.com/orazmyradov/cloud-gallery-spotlight)
   
 Credit: [orazmyradov](https://github.com/orazmyradov)
+Credit: [mvorajee](https://github.com/mvorajee)
+Credit: [mghoor](https://github.com/m-raaes)
 Last Edited on: 22/05/2022
